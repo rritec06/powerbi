@@ -181,9 +181,11 @@
    * View reports on the Go
    * Freedom for Integration
    * Sharing 
-
 44. What is the incremental refresh ?
     Incremental refresh is used to refresh the newly added data to avoid truncating and loading data. 
+
+
+     
 
 
 
