@@ -196,12 +196,33 @@
         * SUMX (and other X functions)
 
 50. Name any 3 most useful text functions in DAX?
-     The text functions in DAX include the following:
+    The text functions in DAX include the following:
        * CONCATENTATE
        * REPLACE
        * SEARCH
        * UPPER
        * FIXED
+
+51. How to Connect Oracle Database from PowerBI ?
+    1.Host:PortNumber/SID
+52. What can you do within the PowerBI Desktop Query Settings Pane?
+    1.Rename a Query step
+    2.Delete a Query step
+    3.Delete from one Query step to the end
+    4.Reorder the steps
+53. When you are creating a formula in the Power Query Editor, what does IntelliSense provide a list of ?
+    1.Columns
+    2.Tables
+    3.Functions
+54. Which data type can be uploaded directly to PowerBI.com?
+    1.Excel Files
+    2.Comma-Seperated Value (CSV) Files
+    3.PowerBI Desktop Files
+55. In the Power Query Editor, you have selected multiple columns. How do you set them all to the whole number data type ?
+    Click Data Type Any and Select the Whole Number
+56. 
+     
+       
 
 
 
