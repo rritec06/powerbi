@@ -181,10 +181,12 @@
    * View reports on the Go
    * Freedom for Integration
    * Sharing 
+
 44. What is the incremental refresh ?
-    Incremental refresh is used to refresh the newly added data to avoid truncating and loading data.   
-45. What is a parameter in Power BI ?
-    A Parameter in Power BI is a dynamic filter that is used in the calculation fields. It is based on the parameter value result that can vary.
+    Incremental refresh is used to refresh the newly added data to avoid truncating and loading data. 
+
+
+
     
 46.     
     
