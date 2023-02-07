@@ -183,16 +183,9 @@
    * Sharing 
 44. What is the incremental refresh ?
 
-    Incremental refresh is used to refresh the newly added data to avoid truncating and loading data. 
-    
-
-
-     
-
-
-
-    
-46.     
+    Incremental refresh is used to refresh the newly added data to avoid truncating and loading data.     
+46. How can you refresh data in Power BI?
+    * Data can be refreshed in the Gateway in Power BI by scheduling Refresh.    
     
     
 
