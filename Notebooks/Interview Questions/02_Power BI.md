@@ -182,10 +182,24 @@
    * Freedom for Integration
    * Sharing 
 44. What is the incremental refresh ?
+    * Incremental refresh is used to refresh the newly added data to avoid truncating and loading data.     
+46. How can you refresh data in Power BI ?
+    * Data can be refreshed in the Gateway in Power BI by scheduling Refresh. 
+47. Where is data stored in Power BI ? 
+    * When data is ingested into Power BI, it is basically stored in Fact and Dimension tables. 
+48. What is Fact Table ?
+    The central table in a star schema of a data warehouse, a fact table stores quantitative information for analysis and is not normalized in most cases.
+49. What is Dimension Table ?
+    * It is just another table in the star schema that is used to store attributes and dimensions that describe objects stored in a fact table.
+50. What are the most common data shaping techniques?
+    The most common data shaping techniques are:
+    * Removing Columns and Rows
+    * Adding Indexes
+    * Applying a Sort Order
 
-    Incremental refresh is used to refresh the newly added data to avoid truncating and loading data.     
-46. How can you refresh data in Power BI?
-    * Data can be refreshed in the Gateway in Power BI by scheduling Refresh.    
+    
+    
+    
     
     
 
